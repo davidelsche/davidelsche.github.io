@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbebf0a0.css",
+    "main.js": "/static/js/main.2d84d468.js",
+    "static/js/453.ba895e33.chunk.js": "/static/js/453.ba895e33.chunk.js",
+    "static/media/womens-day.riv": "/static/media/womens-day.88bb88b4452b51675d15.riv",
+    "index.html": "/index.html",
+    "main.fbebf0a0.css.map": "/static/css/main.fbebf0a0.css.map",
+    "main.2d84d468.js.map": "/static/js/main.2d84d468.js.map",
+    "453.ba895e33.chunk.js.map": "/static/js/453.ba895e33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbebf0a0.css",
+    "static/js/main.2d84d468.js"
+  ]
+}
