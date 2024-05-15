@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3e32acb.css",
-    "main.js": "/static/js/main.aa886230.js",
-    "static/js/453.c57cd96b.chunk.js": "/static/js/453.c57cd96b.chunk.js",
-    "static/media/womens-day.riv": "/static/media/womens-day.dc2280bcf9e57d529cd9.riv",
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.5e312369.js",
+    "static/js/453.6bdf55fa.chunk.js": "/static/js/453.6bdf55fa.chunk.js",
     "index.html": "/index.html",
-    "main.b3e32acb.css.map": "/static/css/main.b3e32acb.css.map",
-    "main.aa886230.js.map": "/static/js/main.aa886230.js.map",
-    "453.c57cd96b.chunk.js.map": "/static/js/453.c57cd96b.chunk.js.map"
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.5e312369.js.map": "/static/js/main.5e312369.js.map",
+    "453.6bdf55fa.chunk.js.map": "/static/js/453.6bdf55fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3e32acb.css",
-    "static/js/main.aa886230.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5e312369.js"
   ]
 }
